@@ -1,0 +1,14 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/02_Jiwoo/\uc218\uc5c5/\ud504\ub85c\uadf8\ub798\ubc0d/SpaceInvaders/SpaceInvaders-W12_VisualStudio/out/build/x64-Debug/cmake_install.cmake",
+		"D:/02_Jiwoo/\uc218\uc5c5/\ud504\ub85c\uadf8\ub798\ubc0d/SpaceInvaders/SpaceInvaders-W12_VisualStudio/out/build/x64-Debug/_deps/sfml-build/cmake_install.cmake",
+		"D:/02_Jiwoo/\uc218\uc5c5/\ud504\ub85c\uadf8\ub798\ubc0d/SpaceInvaders/SpaceInvaders-W12_VisualStudio/out/build/x64-Debug/_deps/sfml-build/src/SFML/cmake_install.cmake",
+		"D:/02_Jiwoo/\uc218\uc5c5/\ud504\ub85c\uadf8\ub798\ubc0d/SpaceInvaders/SpaceInvaders-W12_VisualStudio/out/build/x64-Debug/_deps/sfml-build/src/SFML/System/cmake_install.cmake",
+		"D:/02_Jiwoo/\uc218\uc5c5/\ud504\ub85c\uadf8\ub798\ubc0d/SpaceInvaders/SpaceInvaders-W12_VisualStudio/out/build/x64-Debug/_deps/sfml-build/src/SFML/Main/cmake_install.cmake",
+		"D:/02_Jiwoo/\uc218\uc5c5/\ud504\ub85c\uadf8\ub798\ubc0d/SpaceInvaders/SpaceInvaders-W12_VisualStudio/out/build/x64-Debug/_deps/sfml-build/src/SFML/Window/cmake_install.cmake",
+		"D:/02_Jiwoo/\uc218\uc5c5/\ud504\ub85c\uadf8\ub798\ubc0d/SpaceInvaders/SpaceInvaders-W12_VisualStudio/out/build/x64-Debug/_deps/sfml-build/src/SFML/Graphics/cmake_install.cmake",
+		"D:/02_Jiwoo/\uc218\uc5c5/\ud504\ub85c\uadf8\ub798\ubc0d/SpaceInvaders/SpaceInvaders-W12_VisualStudio/out/build/x64-Debug/_deps/freetype-build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,0 +1,21 @@
+# ninja log v7
+5	101	8168719435367031	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-mkdir	1c22adfb94ec3901
+5	101	8168719435367031	D:/02_Jiwoo/수업/프로그래밍/SpaceInvaders/SpaceInvaders-W12_VisualStudio/out/build/x64-Debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-mkdir	1c22adfb94ec3901
+101	11719	8168719551549964	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-download	d5d1198514ec4a9c
+101	11719	8168719551549964	D:/02_Jiwoo/수업/프로그래밍/SpaceInvaders/SpaceInvaders-W12_VisualStudio/out/build/x64-Debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-download	d5d1198514ec4a9c
+11720	12042	8168719551620409	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-update	b4cfb09cc03a6508
+11720	12042	8168719551620409	D:/02_Jiwoo/수업/프로그래밍/SpaceInvaders/SpaceInvaders-W12_VisualStudio/out/build/x64-Debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-update	b4cfb09cc03a6508
+12042	12169	8168719556048507	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-patch	d693a519aa9a151b
+12042	12169	8168719556048507	D:/02_Jiwoo/수업/프로그래밍/SpaceInvaders/SpaceInvaders-W12_VisualStudio/out/build/x64-Debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-patch	d693a519aa9a151b
+12169	12272	8168719557079648	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-configure	688ce15618b64990
+12169	12272	8168719557079648	D:/02_Jiwoo/수업/프로그래밍/SpaceInvaders/SpaceInvaders-W12_VisualStudio/out/build/x64-Debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-configure	688ce15618b64990
+12272	12370	8168719558055513	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-build	69ce2794bc72acbf
+12272	12370	8168719558055513	D:/02_Jiwoo/수업/프로그래밍/SpaceInvaders/SpaceInvaders-W12_VisualStudio/out/build/x64-Debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-build	69ce2794bc72acbf
+12370	12458	8168719558916143	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-install	7291eac75a2727d7
+12370	12458	8168719558916143	D:/02_Jiwoo/수업/프로그래밍/SpaceInvaders/SpaceInvaders-W12_VisualStudio/out/build/x64-Debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-install	7291eac75a2727d7
+12458	12540	8168719559760927	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-test	ef76076e2d693586
+12458	12540	8168719559760927	D:/02_Jiwoo/수업/프로그래밍/SpaceInvaders/SpaceInvaders-W12_VisualStudio/out/build/x64-Debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-test	ef76076e2d693586
+12540	12643	8168719560788335	CMakeFiles/freetype-populate-complete	9ecfbb35becb05ef
+12540	12643	8168719560788335	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-done	9ecfbb35becb05ef
+12540	12643	8168719560788335	D:/02_Jiwoo/수업/프로그래밍/SpaceInvaders/SpaceInvaders-W12_VisualStudio/out/build/x64-Debug/_deps/freetype-subbuild/CMakeFiles/freetype-populate-complete	9ecfbb35becb05ef
+12540	12643	8168719560788335	D:/02_Jiwoo/수업/프로그래밍/SpaceInvaders/SpaceInvaders-W12_VisualStudio/out/build/x64-Debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-done	9ecfbb35becb05ef

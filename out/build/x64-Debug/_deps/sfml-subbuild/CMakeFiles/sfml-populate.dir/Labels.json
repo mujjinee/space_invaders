@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/02_Jiwoo/\uc218\uc5c5/\ud504\ub85c\uadf8\ub798\ubc0d/SpaceInvaders/SpaceInvaders-W12_VisualStudio/out/build/x64-Debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate"
+		},
+		{
+			"file" : "D:/02_Jiwoo/\uc218\uc5c5/\ud504\ub85c\uadf8\ub798\ubc0d/SpaceInvaders/SpaceInvaders-W12_VisualStudio/out/build/x64-Debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate.rule"
+		},
+		{
+			"file" : "D:/02_Jiwoo/\uc218\uc5c5/\ud504\ub85c\uadf8\ub798\ubc0d/SpaceInvaders/SpaceInvaders-W12_VisualStudio/out/build/x64-Debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete.rule"
+		},
+		{
+			"file" : "D:/02_Jiwoo/\uc218\uc5c5/\ud504\ub85c\uadf8\ub798\ubc0d/SpaceInvaders/SpaceInvaders-W12_VisualStudio/out/build/x64-Debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build.rule"
+		},
+		{
+			"file" : "D:/02_Jiwoo/\uc218\uc5c5/\ud504\ub85c\uadf8\ub798\ubc0d/SpaceInvaders/SpaceInvaders-W12_VisualStudio/out/build/x64-Debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure.rule"
+		},
+		{
+			"file" : "D:/02_Jiwoo/\uc218\uc5c5/\ud504\ub85c\uadf8\ub798\ubc0d/SpaceInvaders/SpaceInvaders-W12_VisualStudio/out/build/x64-Debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download.rule"
+		},
+		{
+			"file" : "D:/02_Jiwoo/\uc218\uc5c5/\ud504\ub85c\uadf8\ub798\ubc0d/SpaceInvaders/SpaceInvaders-W12_VisualStudio/out/build/x64-Debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install.rule"
+		},
+		{
+			"file" : "D:/02_Jiwoo/\uc218\uc5c5/\ud504\ub85c\uadf8\ub798\ubc0d/SpaceInvaders/SpaceInvaders-W12_VisualStudio/out/build/x64-Debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir.rule"
+		},
+		{
+			"file" : "D:/02_Jiwoo/\uc218\uc5c5/\ud504\ub85c\uadf8\ub798\ubc0d/SpaceInvaders/SpaceInvaders-W12_VisualStudio/out/build/x64-Debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch.rule"
+		},
+		{
+			"file" : "D:/02_Jiwoo/\uc218\uc5c5/\ud504\ub85c\uadf8\ub798\ubc0d/SpaceInvaders/SpaceInvaders-W12_VisualStudio/out/build/x64-Debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test.rule"
+		},
+		{
+			"file" : "D:/02_Jiwoo/\uc218\uc5c5/\ud504\ub85c\uadf8\ub798\ubc0d/SpaceInvaders/SpaceInvaders-W12_VisualStudio/out/build/x64-Debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"sfml-populate"
+		],
+		"name" : "sfml-populate"
+	}
+}

@@ -1,0 +1,21 @@
+# ninja log v7
+3	101	8168719278745429	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	c4a9755284e8d76
+3	101	8168719278745429	D:/02_Jiwoo/수업/프로그래밍/SpaceInvaders/SpaceInvaders-W12_VisualStudio/out/build/x64-Debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	c4a9755284e8d76
+102	11276	8168719390491788	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	ca0e40f41152289f
+102	11276	8168719390491788	D:/02_Jiwoo/수업/프로그래밍/SpaceInvaders/SpaceInvaders-W12_VisualStudio/out/build/x64-Debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	ca0e40f41152289f
+11276	11550	8168719390571856	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	eb56d240b3e896f3
+11276	11550	8168719390571856	D:/02_Jiwoo/수업/프로그래밍/SpaceInvaders/SpaceInvaders-W12_VisualStudio/out/build/x64-Debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	eb56d240b3e896f3
+11550	11621	8168719393947477	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	87338c86146ebcb4
+11550	11621	8168719393947477	D:/02_Jiwoo/수업/프로그래밍/SpaceInvaders/SpaceInvaders-W12_VisualStudio/out/build/x64-Debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	87338c86146ebcb4
+11622	11706	8168719394786579	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	43f090ca19e32f81
+11622	11706	8168719394786579	D:/02_Jiwoo/수업/프로그래밍/SpaceInvaders/SpaceInvaders-W12_VisualStudio/out/build/x64-Debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	43f090ca19e32f81
+11706	11799	8168719395736072	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	7dae9de66e7eb787
+11706	11799	8168719395736072	D:/02_Jiwoo/수업/프로그래밍/SpaceInvaders/SpaceInvaders-W12_VisualStudio/out/build/x64-Debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	7dae9de66e7eb787
+11799	11879	8168719396512145	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	e0beaeb0bbe853ce
+11799	11879	8168719396512145	D:/02_Jiwoo/수업/프로그래밍/SpaceInvaders/SpaceInvaders-W12_VisualStudio/out/build/x64-Debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	e0beaeb0bbe853ce
+11880	11962	8168719397357254	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	9790fd7a0db6b248
+11880	11962	8168719397357254	D:/02_Jiwoo/수업/프로그래밍/SpaceInvaders/SpaceInvaders-W12_VisualStudio/out/build/x64-Debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	9790fd7a0db6b248
+11962	12069	8168719398424401	CMakeFiles/sfml-populate-complete	69d7269af913aa75
+11962	12069	8168719398424401	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	69d7269af913aa75
+11962	12069	8168719398424401	D:/02_Jiwoo/수업/프로그래밍/SpaceInvaders/SpaceInvaders-W12_VisualStudio/out/build/x64-Debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete	69d7269af913aa75
+11962	12069	8168719398424401	D:/02_Jiwoo/수업/프로그래밍/SpaceInvaders/SpaceInvaders-W12_VisualStudio/out/build/x64-Debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	69d7269af913aa75
